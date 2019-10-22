@@ -55,7 +55,6 @@ public class QuartzController {
 	 * 分页获取调度管理
 	 * @param request
 	 * @param model
-	 * @param user
 	 * @return
 	 * @throws UnsupportedEncodingException
 	 */
@@ -83,7 +82,6 @@ public class QuartzController {
 	 * 删除调度管理
 	 * @param request
 	 * @param model
-	 * @param user
 	 * @return
 	 * @throws UnsupportedEncodingException
 	 */
@@ -106,7 +104,6 @@ public class QuartzController {
 	 * 批量删除调度管理
 	 * @param request
 	 * @param model
-	 * @param user
 	 * @return
 	 * @throws UnsupportedEncodingException
 	 */
@@ -158,7 +155,6 @@ public class QuartzController {
 	 * 保存调度管理
 	 * @param request
 	 * @param model
-	 * @param user
 	 * @return
 	 * @throws UnsupportedEncodingException
 	 */
@@ -199,7 +195,6 @@ public class QuartzController {
 	 * 禁用/解禁定时任务
 	 * @param request
 	 * @param model
-	 * @param user
 	 * @return
 	 * @throws UnsupportedEncodingException
 	 */
