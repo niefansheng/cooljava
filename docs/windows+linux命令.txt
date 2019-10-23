@@ -1,0 +1,12 @@
+
+开启redis：	（bin目录）redis-server.exe redis.windows.conf
+
+开启zookeeper：	（任一目录）zkserver
+
+开启kafka：	（主目录）.\bin\windows\kafka-server-start.bat .\config\server.properties
+
+开启kafka-manage：	（bin目录）kafka-manager
+		（打开网址）127.0.0.1:9000 
+
+SVN检出：	（上级目录）svn checkout http://......
+		（主目录）svn cleanup & svn up
